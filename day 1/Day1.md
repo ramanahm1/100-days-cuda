@@ -1,4 +1,4 @@
-# Tasks Accomplished
+# Day 1 - Tasks Accomplished
 - Perused PMPP Chapter 1
 - Understood relation between threads, blocks, grids, kernels.
 - Understood the use of cudamalloc, cudamemcpy
